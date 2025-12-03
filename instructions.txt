@@ -1,0 +1,8 @@
+Free Tier Alerts - Quick Steps (Console)
+1. Sign in to the AWS Console as the account root user or an IAM user with billing access.
+2. Go to 'Billing' from the AWS Management Console (top-right menu under your account).
+3. In the left navigation, choose 'Free Tier'.
+4. Click 'Enable' or 'Set up Free Tier alerts' and provide an email to receive notifications.
+5. Save and confirm any subscription email you receive (if applicable).
+
+Screenshot: save a screenshot of the Free Tier page after enabling alerts and place it into the screenshots/ folder.
